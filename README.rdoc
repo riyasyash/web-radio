@@ -1,5 +1,5 @@
 == WebRadio
 This is a small web radio APP Done using rails.
-There is not much ruby code . Feel free to contribute to the code.
+There is hardly any ruby code . Feel free to contribute to the code.
 
 The app is hosted at : http://morning-savannah-31758.herokuapp.com/
